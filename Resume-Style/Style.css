@@ -1,0 +1,25 @@
+/* Navigation settings */
+.navigation {
+    color: black;
+    text-align: center;
+}
+.navigation header {
+    font-size: 40px;
+    font-family: Inter;
+    font-style: normal;
+}
+.navigation a {
+    color: black;
+    text-decoration: none;
+}
+
+/* Main settings */
+.aligncenter {
+    text-align: center;
+}
+.aligncenter a {
+    text-decoration: none;
+}
+.aligncenter ul {
+    list-style-position: inside;
+}
